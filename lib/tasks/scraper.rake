@@ -117,5 +117,6 @@ namespace :scraper do
   			post.destroy 
   		end
   	end
+  end
 
 end
